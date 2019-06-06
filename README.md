@@ -11,7 +11,7 @@ Step 3 :
 Download any code editor you want and drag and drop whole folder into that.
 
 Step 4 :
-Navigate to the folder Backend and use command -> node index.js
+Navigate to the folder ServerSide and use command -> node index.js
 
 Step 5 :
 The Node server will listen to port 3000
